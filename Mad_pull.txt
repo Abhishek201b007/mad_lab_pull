@@ -1,2 +1,11 @@
 This is MAD pull request section 
 By Aayush 
+
+# FirstProject
+this repo contains my first ever project.
+this project is about tic tak toe
+this is game
+this game is interasting
+this game is not lovely
+this project is for beginners
+this game are very very is lovely
